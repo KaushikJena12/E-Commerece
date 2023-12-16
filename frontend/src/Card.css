@@ -1,0 +1,25 @@
+#mm {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.kk {
+  height: 200px;
+  width: 200px;
+  box-sizing: border-box;
+  border-color: black;
+}
+
+.btn button {
+  padding: 10px;
+  width: 100px;
+}
+
+.card-text {
+  font: 1em sans-serif;
+}
+
+.btn button:hover {
+  background-color: rgb(red, green, blue);
+}
